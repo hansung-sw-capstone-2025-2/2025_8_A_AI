@@ -50,8 +50,8 @@ https://github.com/user-attachments/assets/8916618c-9827-4a0d-8cb9-5339a6f3f6e3
 
 ```bash
 # 저장소 클론
-git clone https://github.com/SW-DiffLens/ai.git
-cd ai
+git clone [https://github.com/SW-DiffLens/ai.git](https://github.com/hansung-sw-capstone-2025-2/2025_8_A_AI.git)
+cd 2025_8_A_AI
 
 # 가상환경 생성 및 활성화
 python -m venv venv
