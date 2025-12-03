@@ -88,7 +88,7 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ## Project Structure
 
 ```
-ai/
+2025_8_A_AI/
 ├── main.py                  # FastAPI 앱 엔트리포인트
 ├── src/
 │   ├── api/                 # API 라우터 및 스키마
